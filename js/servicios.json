@@ -1,0 +1,44 @@
+[
+  {
+    "imagen": "img/service-1.jpg",
+    "titulo": "Construcción General",
+    "detalle": "Desarrollamos obras residenciales, comerciales e industriales con los más altos estándares de calidad.",
+    "titulo2": "General Construction",
+    "icono": "fas fa-home text-primary fa-2x"
+  },
+  {
+    "imagen": "img/service-2.jpg",
+    "titulo": "Mantenimiento de Propiedades",
+    "detalle": "Ofrecemos servicios de mantenimiento preventivo y correctivo para preservar el valor de tus inmuebles.",
+    "titulo2": "Property Maintenance",
+    "icono": "fas fa-users-cog text-primary fa-2x"
+  },
+  {
+    "imagen": "img/service-3.jpg",
+    "titulo": "Gestión de Proyectos",
+    "detalle": "Planificamos, coordinamos y supervisamos cada etapa para cumplir plazos y objetivos.",
+    "titulo2": "Project Management",
+    "icono": "fas fa-hospital-user text-primary fa-2x"
+  },
+  {
+    "imagen": "img/service-4.jpg",
+    "titulo": "Diseño y Construcción Virtual",
+    "detalle": "Implementamos herramientas digitales para visualizar y optimizar tu proyecto antes de construir.",
+    "titulo2": "Virtual Design & Build",
+    "icono": "fas fa-file-invoice-dollar text-primary fa-2x"
+  },
+  {
+    "imagen": "img/service-5.jpg",
+    "titulo": "Preconstrucción",
+    "detalle": "Te asesoramos en la planificación, presupuesto y permisos para iniciar tu obra con éxito.",
+    "titulo2": "Preconstruction",
+    "icono": "fas fa-cogs text-primary fa-2x"
+  },
+  {
+    "imagen": "img/service-6.jpg",
+    "titulo": "Diseño y Construcción",
+    "detalle": "Integramos diseño arquitectónico y ejecución para lograr espacios funcionales y estéticos.",
+    "titulo2": "Design Build",
+    "icono": "fas fa-sitemap text-primary fa-2x"
+  }
+]

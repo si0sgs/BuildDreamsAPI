@@ -1,0 +1,25 @@
+{
+  "acabados": [
+    {"id": "basico", "nombre": "Básico"},
+    {"id": "estandar", "nombre": "Estándar"},
+    {"id": "premium", "nombre": "Premium"},
+    {"id": "lujo", "nombre": "De Lujo"}
+  ],
+  "precios_ubicacion": {
+    "gam": {"basico": 370, "estandar": 520, "premium": 850, "lujo": 1300},
+    "costera": {"basico": 450, "estandar": 650, "premium": 1100, "lujo": 1700},
+    "montana": {"basico": 480, "estandar": 700, "premium": 1200, "lujo": 1850},
+    "rural": {"basico": 340, "estandar": 480, "premium": 800, "lujo": 1200}
+  },
+  "extras": {
+    "bano": 2500,
+    "habitacion": 1800,
+    "cochera": 10000
+  },
+  "ubicaciones": [
+    {"id": "gam", "nombre": "Gran Área Metropolitana (GAM)"},
+    {"id": "costera", "nombre": "Zonas Costeras"},
+    {"id": "montana", "nombre": "Partes altas de Montaña"},
+    {"id": "rural", "nombre": "Zona Rural Alejada de la GAM"}
+  ]
+}
